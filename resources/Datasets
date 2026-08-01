@@ -1,0 +1,800 @@
+# Recommended Datasets For Analytics Engineering Projects
+
+## Overview
+
+Real datasets are essential for developing practical analytics engineering skills.
+
+Projects should help you practice:
+
+- Data ingestion
+- Data cleaning
+- SQL transformations
+- Data modeling
+- dbt workflows
+- Data quality testing
+- Dashboard development
+- Business analysis
+
+The best datasets are not only large.
+
+They should represent realistic business problems.
+
+---
+
+# Dataset Selection Criteria
+
+A good analytics engineering dataset should have:
+
+```
+✓ Multiple Tables
+
+✓ Business Context
+
+✓ Messy Data
+
+✓ Time-Based Records
+
+✓ Relationships Between Entities
+
+✓ Opportunities For KPIs
+```
+
+---
+
+# Dataset Categories
+
+```
+Retail
+
+↓
+
+Finance
+
+↓
+
+Healthcare
+
+↓
+
+Transportation
+
+↓
+
+Marketing
+
+↓
+
+Operations
+
+↓
+
+Public Data
+```
+
+---
+
+# 1. Retail Datasets
+
+---
+
+# Online Retail Dataset
+
+## Source
+
+UCI Machine Learning Repository
+
+---
+
+## Description
+
+Transactional retail data from a UK-based online retailer.
+
+---
+
+## Tables / Fields
+
+Contains:
+
+```
+Invoice
+
+Customer
+
+Product
+
+Quantity
+
+Price
+
+Date
+```
+
+---
+
+## Analytics Projects
+
+Build:
+
+- Revenue dashboard
+- Customer segmentation
+- Product analysis
+- Retention analysis
+
+---
+
+## Skills Practiced
+
+```
+SQL
+
+Data Cleaning
+
+Dimensional Modeling
+
+KPIs
+```
+
+---
+
+# Retail Sales Dataset
+
+## Source
+
+Kaggle
+
+---
+
+## Description
+
+Sales transactions across products and customers.
+
+---
+
+## Build:
+
+```
+Sales Warehouse
+
+Customer Dimension
+
+Product Dimension
+
+Revenue Mart
+```
+
+---
+
+# AdventureWorks Dataset
+
+## Source
+
+Microsoft
+
+---
+
+## Description
+
+A realistic business database.
+
+---
+
+## Includes:
+
+```
+Customers
+
+Products
+
+Sales
+
+Employees
+
+Territories
+```
+
+---
+
+## Great For
+
+- SQL practice
+- Data modeling
+- BI dashboards
+
+---
+
+# 2. E-Commerce Datasets
+
+---
+
+# Brazilian E-Commerce Dataset
+
+## Source
+
+Kaggle
+
+---
+
+## Description
+
+Orders from a Brazilian marketplace.
+
+---
+
+## Tables:
+
+```
+Customers
+
+Orders
+
+Products
+
+Payments
+
+Reviews
+```
+
+---
+
+## Project Ideas
+
+Build:
+
+- Customer analytics platform
+- Delivery performance dashboard
+- Seller performance analysis
+
+---
+
+# Northwind Database
+
+## Source
+
+Microsoft sample database
+
+---
+
+## Description
+
+Classic business database.
+
+---
+
+## Tables:
+
+```
+Customers
+
+Orders
+
+Products
+
+Employees
+
+Suppliers
+```
+
+---
+
+## Best For
+
+Learning:
+
+- SQL
+- Joins
+- Modeling
+
+---
+
+# 3. Finance Datasets
+
+---
+
+# Financial Transactions Dataset
+
+## Description
+
+Synthetic banking transaction data.
+
+---
+
+## Projects:
+
+Build:
+
+```
+Transaction Monitoring
+
+Customer Segmentation
+
+Fraud Analysis
+```
+
+---
+
+## Skills:
+
+- Data quality
+- Aggregations
+- Time analysis
+
+---
+
+# Stock Market Data
+
+## Sources
+
+Examples:
+
+- Yahoo Finance
+- Kaggle
+
+---
+
+## Projects:
+
+Build:
+
+- Market dashboards
+- Time series analysis
+- Performance tracking
+
+---
+
+# 4. Transportation Datasets
+
+---
+
+# NYC Taxi Dataset
+
+## Source
+
+New York City Open Data
+
+---
+
+## Description
+
+Millions of taxi trips.
+
+---
+
+## Fields:
+
+```
+Pickup Time
+
+Dropoff Time
+
+Distance
+
+Fare
+
+Location
+```
+
+---
+
+## Projects:
+
+Build:
+
+- Trip analytics warehouse
+- Demand analysis
+- Revenue analysis
+
+---
+
+## Skills:
+
+```
+Large Data Processing
+
+Partitioning
+
+Optimization
+```
+
+---
+
+# Bike Sharing Dataset
+
+## Source
+
+UCI Repository
+
+---
+
+## Description
+
+Bike rental activity over time.
+
+---
+
+## Projects:
+
+Build:
+
+- Demand forecasting
+- Usage dashboards
+- Seasonal analysis
+
+---
+
+# 5. Marketing Datasets
+
+---
+
+# Customer Campaign Dataset
+
+## Source
+
+Kaggle
+
+---
+
+## Description
+
+Customer responses to marketing campaigns.
+
+---
+
+## Projects:
+
+Build:
+
+- Campaign performance analysis
+- Customer segmentation
+- Conversion analysis
+
+---
+
+# Google Analytics Sample Dataset
+
+## Source
+
+Google Analytics
+
+---
+
+## Projects:
+
+Analyze:
+
+```
+Traffic
+
+Sessions
+
+Conversions
+
+User Behavior
+```
+
+---
+
+# 6. Healthcare Datasets
+
+---
+
+# Healthcare Claims Dataset
+
+## Description
+
+Medical transactions and patient activity.
+
+---
+
+## Projects:
+
+Build:
+
+- Healthcare reporting system
+- Cost analysis
+- Patient analytics
+
+---
+
+# Diabetes Dataset
+
+## Source
+
+Kaggle
+
+---
+
+## Projects:
+
+Practice:
+
+- Data exploration
+- Feature analysis
+- Reporting
+
+---
+
+# 7. Climate And Sustainability Datasets
+
+---
+
+# NASA Climate Data
+
+## Source
+
+NASA Open Data
+
+---
+
+## Projects:
+
+Build:
+
+- Climate dashboards
+- Environmental reporting
+
+---
+
+# Energy Consumption Dataset
+
+## Projects:
+
+Analyze:
+
+```
+Energy Usage
+
+Efficiency
+
+Demand Patterns
+```
+
+---
+
+# 8. Government And Public Data
+
+---
+
+# World Bank Open Data
+
+## Source
+
+World Bank
+
+---
+
+## Includes:
+
+```
+Economics
+
+Population
+
+Development Indicators
+```
+
+---
+
+## Projects:
+
+Build:
+
+- Country analytics platform
+- Development dashboards
+
+---
+
+# United Nations Data
+
+## Includes:
+
+```
+Population
+
+Health
+
+Environment
+
+Economics
+```
+
+---
+
+# 9. Recommended Analytics Engineering Projects
+
+---
+
+# Project 1: Retail Analytics Warehouse
+
+Dataset:
+
+Online Retail
+
+---
+
+Architecture:
+
+```
+Raw CSV Files
+
+↓
+
+Warehouse
+
+↓
+
+dbt Models
+
+↓
+
+Analytics Marts
+
+↓
+
+Dashboard
+```
+
+---
+
+Build:
+
+Facts:
+
+```
+fact_sales
+```
+
+Dimensions:
+
+```
+dim_customer
+
+dim_product
+
+dim_date
+```
+
+---
+
+# Project 2: E-Commerce Data Platform
+
+Dataset:
+
+Brazilian E-Commerce
+
+---
+
+Build:
+
+```
+Customer Analytics
+
+Order Analytics
+
+Seller Analytics
+```
+
+---
+
+# Project 3: Transportation Analytics Platform
+
+Dataset:
+
+NYC Taxi
+
+---
+
+Build:
+
+```
+Trip Fact Table
+
+Location Dimension
+
+Time Dimension
+```
+
+---
+
+# Project 4: Financial Analytics Platform
+
+Dataset:
+
+Bank Transactions
+
+---
+
+Build:
+
+```
+Transaction Warehouse
+
+Customer Metrics
+
+Risk Dashboard
+```
+
+---
+
+# Dataset Workflow
+
+For every dataset:
+
+```
+Download
+
+↓
+
+Understand Business Context
+
+↓
+
+Profile Data
+
+↓
+
+Design Model
+
+↓
+
+Build Transformations
+
+↓
+
+Create Metrics
+
+↓
+
+Document Project
+```
+
+---
+
+# Dataset Documentation Template
+
+For every project document:
+
+```
+Dataset Source:
+
+Business Problem:
+
+Tables:
+
+Data Dictionary:
+
+Transformation Logic:
+
+Metrics:
+
+Data Quality Checks:
+
+Insights:
+```
+
+---
+
+# Final Advice
+
+Do not collect hundreds of datasets.
+
+Master a few deeply.
+
+A strong portfolio can be built from:
+
+```
+1 Retail Project
+
++
+
+1 Finance Project
+
++
+
+1 Operational Project
+
++
+
+1 Cloud Pipeline Project
+```
+
+Depth beats quantity.
