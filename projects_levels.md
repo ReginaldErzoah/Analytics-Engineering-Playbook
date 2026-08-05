@@ -29,7 +29,7 @@ Questions answered:
 
 ---
 
-### 2. Financial Planning & Analytics Dashboard ⭐
+### 2. Financial Planning & Analytics Dashboard 
 
 Skills:
 
