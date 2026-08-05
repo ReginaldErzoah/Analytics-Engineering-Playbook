@@ -16,7 +16,7 @@ This is exactly how I would approach it. Don't think of your portfolio as a coll
 
 ## Portfolio Projects
 
-### 1. Customer Retail Analytics Platform ⭐
+### 1. Customer Retail Analytics Platform 
 
 **Skills:** SQL, Power BI, KPIs, DAX
 
