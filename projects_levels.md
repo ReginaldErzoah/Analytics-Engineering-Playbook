@@ -99,7 +99,7 @@ You should comfortably qualify for:
 
 ## Portfolio Projects
 
-### 1. SupportOps Intelligence ⭐⭐⭐
+### 1. SupportOps Intelligence ⭐⭐
 
 Customer Support Analytics Platform
 
@@ -388,7 +388,7 @@ Deployment
 
 ---
 
-### 3. Ticket Volume Forecasting ⭐⭐⭐⭐⭐
+### 3. Ticket Volume Forecasting ⭐⭐⭐⭐
 
 Perfect continuation of SupportOps.
 
