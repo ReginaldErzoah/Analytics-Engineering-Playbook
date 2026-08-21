@@ -388,7 +388,7 @@ Deployment
 
 ---
 
-### 3. Ticket Volume Forecasting ⭐⭐⭐
+### 3. Ticket Volume Forecasting ⭐⭐⭐⭐
 
 Perfect continuation of SupportOps.
 
