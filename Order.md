@@ -41,7 +41,7 @@ You don't build the roof before the foundation.
 
 ---
 
-# Phase 1 — Become Exceptional at SQL (Highest Priority)
+# Phase 1 - Become Exceptional at SQL (Highest Priority)
 
 **Duration:** 3–4 weeks
 
