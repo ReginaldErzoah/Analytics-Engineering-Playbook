@@ -100,7 +100,7 @@ Books
 
 ---
 
-# Phase 3 — Power BI Mastery
+# Phase 3 - Power BI Mastery
 
 You already know Power BI.
 
