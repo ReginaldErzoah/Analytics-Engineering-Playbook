@@ -73,7 +73,7 @@ Projects:
 
 ---
 
-# Phase 2 — Analytics Thinking
+# Phase 2 - Analytics Thinking
 
 This is where many analysts stop growing.
 
