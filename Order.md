@@ -264,7 +264,7 @@ Containerize:
 
 ---
 
-# Phase 10 — CI/CD
+# Phase 10 - CI/CD
 
 GitHub Actions
 
