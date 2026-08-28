@@ -186,7 +186,7 @@ Learn:
 
 ---
 
-# Phase 6 — Python for Analytics
+# Phase 6 - Python for Analytics
 
 Don't try to learn every Python topic.
 
