@@ -120,7 +120,7 @@ Build dashboards that answer decisions.
 
 ---
 
-# Phase 4 — Analytics Engineering
+# Phase 4 - Analytics Engineering
 
 This is where you begin separating yourself.
 
