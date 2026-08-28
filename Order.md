@@ -252,7 +252,7 @@ Synapse basics
 
 ---
 
-# Phase 9 — Docker
+# Phase 9 - Docker
 
 Now Docker becomes easy.
 
