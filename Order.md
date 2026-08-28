@@ -230,7 +230,7 @@ Airflow concepts
 
 ---
 
-# Phase 8 — Cloud
+# Phase 8 - Cloud
 
 Only after understanding pipelines.
 
