@@ -276,7 +276,7 @@ Automation
 
 ---
 
-# Phase 11 — Machine Learning
+# Phase 11 - Machine Learning
 
 Notice this comes much later.
 
