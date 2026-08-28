@@ -208,7 +208,7 @@ Visualization
 
 ---
 
-# Phase 7 — Data Engineering Concepts
+# Phase 7 - Data Engineering Concepts
 
 Now everything starts connecting.
 
