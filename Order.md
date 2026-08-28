@@ -170,7 +170,7 @@ Learn:
 
 ---
 
-# Phase 5 — Git & GitHub
+# Phase 5 - Git & GitHub
 
 Not just commands.
 
