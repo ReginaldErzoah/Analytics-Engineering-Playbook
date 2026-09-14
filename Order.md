@@ -413,7 +413,7 @@ If I had to rank the technologies by how much they'll improve your chances over 
 
 1. **SQL** 
 2. **Business & analytical thinking** 
-3. **Power BI / Dashboard design** ⭐⭐
+3. **Power BI / Dashboard design** ⭐
 4. **Analytics engineering (dbt, data modeling, data quality)** ⭐⭐⭐⭐☆
 5. **Python for analytics** ⭐⭐⭐⭐☆
 6. **Git/GitHub** ⭐⭐⭐⭐☆
