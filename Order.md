@@ -418,7 +418,7 @@ If I had to rank the technologies by how much they'll improve your chances over 
 5. **Python for analytics** 
 6. **Git/GitHub** 
 7. **Data engineering concepts** 
-8. **Cloud (Azure/AWS)** ⭐
+8. **Cloud (Azure/AWS)** ⭐⭐
 9. **Docker** ⭐⭐⭐☆☆
 10. **CI/CD** ⭐⭐☆☆☆
 11. **Machine learning** ⭐⭐☆☆☆
